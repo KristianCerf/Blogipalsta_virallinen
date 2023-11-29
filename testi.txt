@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "Teveisiä kumpulasta"
+=======
+"Terveisiä githubista"
+>>>>>>> ee43c06ad1a8beb109681c5418698076ab71244d
